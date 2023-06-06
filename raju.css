@@ -23,7 +23,7 @@ a {
     padding-right: 40px;
     color: rgb(212, 209, 202);
     word-spacing: 1px;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: Georgia, serif;
 }
 
 a:hover {
@@ -32,7 +32,7 @@ a:hover {
 
 
 
-#div2 {
+#Home {
     background-image: linear-gradient(rgba(0, 0, 0, 0.664), rgba(0, 0, 0, 0.623)), url("wataap2.jpeg");
     height: 700px;
     font-size: 80px;
@@ -67,7 +67,7 @@ a:hover {
 }
 
 .prod {
-    text-align: center;
+    font-family: Georgia, serif;
     font-size: 60px;
 }
 
