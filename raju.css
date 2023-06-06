@@ -33,7 +33,7 @@ a:hover {
 
 
 #div2 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.664), rgba(0, 0, 0, 0.623)), url("img/wataap2.jpeg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.664), rgba(0, 0, 0, 0.623)), url("wataap2.jpeg");
     height: 700px;
     font-size: 80px;
     display: flex;
@@ -45,7 +45,7 @@ a:hover {
 }
 
 .div3 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.164), rgba(0, 0, 0, 0.199)), url("img/imag1.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.164), rgba(0, 0, 0, 0.199)), url("imag1.jpg");
     height: 350px;
     width: 350px;
     margin-top: 70px;
